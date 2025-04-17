@@ -54,10 +54,6 @@ const Footer = () => {
               <span className="social-icon">𝕏</span>
               Twitter
             </a>
-            <a href="#" target="_blank" rel="noopener noreferrer">
-              <span className="social-icon">✈️</span>
-              Telegram
-            </a>
             <a href="https://dexscreener.com/solana/fykuc1aehv5ziauh6wf7zuuvc3b5hehzwuerxlwwmu88" target="_blank" rel="noopener noreferrer">
               <span className="social-icon">📊</span>
               DexScreener
